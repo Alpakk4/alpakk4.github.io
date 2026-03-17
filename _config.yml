@@ -1,0 +1,19 @@
+# Use the Hyde theme via the Remote Theme plugin
+remote_theme: poole/hyde
+
+# Essential Plugins (needed for Hyde to work correctly on GitHub Pages)
+plugins:
+  - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-gist
+# Make the sidebar green
+layout_class: theme-base-0b
+
+# Site settings
+title: PingLo 
+description: Small website to share the requisite descriptions and policies for app deploymeny.
+baseurl: "" # The subpath of your site, e.g. /project-name/ (leave empty if using username.github.io)
+url: "https://alpakk4.github.io" # Your site's URL
+
+# Hyde specific settings
+paginate: 5
