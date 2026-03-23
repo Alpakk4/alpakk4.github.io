@@ -55,6 +55,14 @@ html {
   font-size: 3.25rem;
 }
 
+.sidebar-about .site-logo {
+  /* Center the SVG and scale it up from the theme default. */
+  display: block;
+  margin: 0 auto 1rem;
+  max-height: 160px; /* adjust this number to taste */
+  width: auto;
+}
+
 .sidebar-nav {
   margin-bottom: 1rem;
 }

@@ -11,7 +11,8 @@ layout_class: theme-base-0b
 
 # Site settings
 title: PingLo 
-description: Small website to share the requisite descriptions and policies for app deploymeny.
+logo: public/css/logo.svg
+description: Small website to share information about PingLo.
 baseurl: "" # The subpath of your site, e.g. /project-name/ (leave empty if using username.github.io)
 url: "https://alpakk4.github.io" # Your site's URL
 
