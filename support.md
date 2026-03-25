@@ -4,9 +4,9 @@ title: Support
 ---
 ## Contact the Developer
 
-For any queries not covered in this website or for more information about the study, including enrollement, please contact the developer by email. [Contact the Developer][contactdevlink]
+For any queries not covered in this website or for more information about the project, including enrollement, please contact the developer by email. [Contact the Developer][contactdevlink]
 
-For enrolled particpants having issues, please see the information below before reaching out for assistance
+For enrolled users having issues, please see the information below before reaching out for assistance
 
 ## Troubleshooting comming issues
 
@@ -22,6 +22,6 @@ You will need a valid deviceID, provided only through being enrolled in the stud
 
 For data deletion requests, please [email the developer][contactdevlink].
 
-*Note:Individuals not enrolled in the study will not have any data stored to delete*
+*Note:Individuals not enrolled in the project will not have any data stored to delete*
 
 [contactdevlink]:(mailto:alexander.m.skondras@kcl.ac.uk?subject=PingLo%20Support%20Request%20or%20Enquiry&body=[Replace%20with%20your%20message])
